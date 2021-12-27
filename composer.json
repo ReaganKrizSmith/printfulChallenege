@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Classes\\": "app/src/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "~6.0"
+  }
+}
